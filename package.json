@@ -1,7 +1,7 @@
 {
   "name": "atom-emmet-css-in-js",
   "main": "./lib/atom-emmet-css-in-js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A companion package to `emmet-atom` which will expand css abbreviations into css-in-js object style",
   "keywords": [],
   "repository": "git@github.com:brumm/atom-emmet-css-in-js.git",
